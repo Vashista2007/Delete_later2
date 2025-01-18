@@ -3,4 +3,9 @@ vasu is smart
 Hasini is also smart
 
 Work hard. Learn by doing. Learn by doing. Learn by doing. Don't run away from tough things. Don't run away from tought things. 
+<<<<<<< HEAD
 change
+=======
+
+Be responsible for your actions don't blame. Be responsible for your actions don't blame. Be responsible for your actions don't blame. 
+>>>>>>> 8cbb17bcf3636e3a10f625c63ddd0676aa8dc3e6
